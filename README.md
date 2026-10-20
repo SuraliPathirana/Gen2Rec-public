@@ -2,7 +2,18 @@
 
 **A generalized framework for using large language models as recommender systems.**
 
-This is the public version of the Gen2Rec project, completed in 2024.
+This was done as an Undergraduate Final Year Project at University of Sri Jayewardenepura(2024). This is the public version of the project. 
+
+Group Members:
+Chathurinda Ranasinghe
+Dinuka Gayashan
+Surali Pathirana
+
+Supervisor:
+Dr. Randima Dinalankara
+
+Co-Supervisor:
+Ms. Akarshani Amarasinghe
 
 Gen2Rec turns any tabular item catalogue (movies, laptops, news articles, games, vehicles, ...) into a conversational, explainable recommender without training a domain-specific model. A user describes the category, uploads a CSV, and says which columns carry descriptive text and which carry structured attributes. Gen2Rec then builds a retrieval-augmented generation (RAG) pipeline that understands free-form requests such as *"a light laptop under $1000 for programming, with at least 16GB RAM"* and answers with ranked, justified recommendations.
 
