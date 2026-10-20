@@ -5,8 +5,8 @@
 This was done as an Undergraduate Final Year Project at University of Sri Jayewardenepura(2024). This is the public version of the project. 
 
 Group Members:
-Chathurinda Ranasinghe
-Dinuka Gayashan
+Chathurinda Ranasinghe,
+Dinuka Gayashan,
 Surali Pathirana
 
 Supervisor:
