@@ -1,0 +1,25 @@
+# Environment
+venv/
+.venv/
+.env
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Data and generated artifacts
+data/
+*.csv
+*.json
+*.zip
+*.log
+*.rdb
+qdrant_storage/
+local-embeddings/
+persistent-embeddings/
+redis-local-data/
